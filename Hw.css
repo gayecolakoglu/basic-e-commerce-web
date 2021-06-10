@@ -1,0 +1,53 @@
+body{
+    background-color:#daebe8; 
+   /* #daebe8;*/
+}
+
+#searchBar{
+    width: 430px;
+}
+
+ #myNavBar{
+     padding-top: 20px;
+     padding-bottom: 20px;
+     background-color: #5b9aa0;
+     color: #b8a9c9;
+ }
+
+ .myDropdownColor{
+     background-color: #6c757d;
+ }
+
+ .priceColor{
+    color: #E74C3C;
+ }
+
+ .radius-25{
+    border-radius: 15px;
+ }
+
+ #basket{
+     font-size: 2rem;
+     color:  #622569;
+     
+ }
+ #basket:hover{
+    color: rgb(49, 5, 78);
+     
+ }
+
+
+
+ .box {
+    color: #566573 ;
+    transition: box-shadow .3s;
+    border-radius:10px;
+    border: 1px solid #b8a9c9;
+    background: #fff;
+    text-align: center;
+    
+  }
+  .box:hover {
+    box-shadow: 0 0 11px #622569; 
+  }
+  
