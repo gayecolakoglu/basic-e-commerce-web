@@ -1,4 +1,4 @@
-#dfsghjh
+## E-COMMERCE 
 
 -	I developed not a complete(since there is not many administrative functions) e-shoppng website.
 -	This website have two types of users; customers,admins.
@@ -18,9 +18,6 @@ List of technologies that you have used:
 Database Diagram
 
 ![image](https://drive.google.com/uc?export=view&id=1HoBf0V3jxMFwx8GUeQhKJLiYlhyp_Muc)
-
-
-
 
 
 
